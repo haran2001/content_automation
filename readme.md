@@ -93,3 +93,14 @@ Before using the tool, ensure you have the following installed and configured:
    mkdir smart_video_transcription
    cd smart_video_transcription
    ```
+
+2. **Install the required libraries**
+
+   ```python
+   pip install -r reuirements.txt
+   ```
+
+3. **Run the script**
+   ```python
+   python script.py
+   ```
